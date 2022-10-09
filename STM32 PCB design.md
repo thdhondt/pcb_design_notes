@@ -191,4 +191,4 @@ Differential pairs
     Controlled impedence is not important here as the speed is low
     OK as long as the traces are as short as possible
 
-<img src="file:///D:/Personal/PCB/pcb_design_notes/notes/kicad_predefined_sizes.png" title="" alt="" width="501">
+<img title="" src="file:///D:/Personal/PCB/pcb_design_notes/notes/kicad_predefined_sizes.png" alt="" width="501">
